@@ -15,7 +15,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 # QA Automation Engineer
 
-Transitioning from frontend development to QA automation. Building test frameworks with Playwright, TypeScript, and BDD.
+Transitioning from frontend development to QA. Building test frameworks with Playwright, TypeScript, and BDD.
 
 Open to Opportunities.
 
@@ -24,9 +24,3 @@ Open to Opportunities.
 📜 **Certified**: ISTQB Foundation Level  
 📍 **Location**: London, UK  
 📫 **Contact**: [errolson.gonito@protonmail.com](errolson.gonito@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/errolson-gonito-86514a263/)
-
-websites i've built: 
-https://cataract-laser-greece.netlify.app/
-
-https://chipper-toffee-7beb04.netlify.app/
-
