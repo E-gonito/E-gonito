@@ -17,6 +17,5 @@ I'm currently building test automation frameworks with E2E and API test suites, 
 
 
 🎓 **Education**: BSc Computer Science  
-📜 **Certified**: ISTQB Foundation Level  
 📍 **Location**: London, UK  
 📫 **Contact**: [errolson.gonito@protonmail.com](errolson.gonito@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/errolson-gonito-86514a263/)
