@@ -11,9 +11,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-# Test Automation Frameworks | Playwright | TypeScript
+# Hi there, I'm Errolson!
 
-Building E2E and API test suites with modern automation tools. Transitioning from frontend development to QA automation engineering, open to opportunities.
+I'm currently building test automation frameworks  with E2E, API test suites with Playwright and Typescript. Transitioning from frontend development to QA automation engineering, open to opportunities.
 
 
 🎓 **Education**: BSc Computer Science  
