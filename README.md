@@ -1,5 +1,3 @@
-![alt text](https://github.com/E-gonito/E-gonito/blob/main/e-gonitoGithubBanner.png)
-
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,11 +11,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-# QA Automation Engineer
+# Test Automation Frameworks | Playwright | TypeScript
 
-Transitioning from frontend development to QA. Building test frameworks with Playwright, TypeScript, and BDD.
-
-Open to Opportunities.
+Building E2E and API test suites with modern automation tools. Transitioning from frontend development to QA automation engineering, open to opportunities.
 
 
 🎓 **Education**: BSc Computer Science  
