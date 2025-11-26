@@ -13,7 +13,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 # Hi there, I'm Errolson!
 
-I'm currently building test automation frameworks  with E2E, API test suites with Playwright and Typescript. Transitioning from frontend development to QA automation engineering, open to opportunities.
+I'm currently building test automation frameworks with E2E and API test suites, built with Playwright and Typescript. Transitioning from frontend development to QA automation engineering, open to opportunities.
 
 
 🎓 **Education**: BSc Computer Science  
