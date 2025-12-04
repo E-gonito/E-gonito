@@ -9,7 +9,7 @@ Software developer specializing in web with IT support experience. Building web 
 ## Tech
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Languages**: Python, TypeScript, JavaScript
-- **Tools**: Postman, Vercel, Netlify
+- **Tools**: Docker, Postman, Vercel, Netlify
 
 ## Projects
 https://healthcheckappph.netlify.app/
