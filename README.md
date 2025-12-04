@@ -1,6 +1,6 @@
 # Hi, I'm Errolson
 
-Software developer specializing in web with IT experience. Building web applications with React, Next.js, and TypeScript.
+Software developer specialized in web with IT experience. Building web applications with React, Next.js, and TypeScript.
 
 🎓 BSc Computer Science — Royal Holloway, University of London  
 📍 London, UK  
