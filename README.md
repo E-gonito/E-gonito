@@ -1,6 +1,6 @@
 # Hi, I'm Errolson
 
-Web developer with IT support experience. Building web applications with React, Next.js, and TypeScript.
+Software developer specializing in web with IT support experience. Building web applications with React, Next.js, and TypeScript.
 
 🎓 BSc Computer Science — Royal Holloway, University of London  
 📍 London, UK  
@@ -9,7 +9,7 @@ Web developer with IT support experience. Building web applications with React, 
 ## Tech
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Languages**: Python, TypeScript, JavaScript
-- **Tools**: Git, Postman, Vercel, Netlify
+- **Tools**: Postman, Vercel, Netlify
 
 ## Projects
 https://healthcheckappph.netlify.app/
